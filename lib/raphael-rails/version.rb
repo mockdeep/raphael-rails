@@ -1,5 +1,5 @@
 module Raphael
   module Rails
-    VERSION = "1.5.2"
+    VERSION = "2.1.0"
   end
 end

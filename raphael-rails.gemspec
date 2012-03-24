@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "raphael-rails"
   s.version     = Raphael::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Dmitry Baranovskiy", "Ben Poweski"]
+  s.authors     = ["Dmitry Baranovskiy", "Ben Poweski", "Robert Fletcher"]
   s.email       = ["bpoweski@3factors.com"]
   s.homepage    = "http://github.com/bpoweski/raphael-rails"
   s.summary     = %q{Raphael JS as a Rubygem}
