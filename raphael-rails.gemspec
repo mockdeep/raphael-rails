@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Dmitry Baranovskiy", "Ben Poweski", "Robert Fletcher"]
   s.email       = ["bpoweski@3factors.com"]
-  s.homepage    = "http://github.com/bpoweski/raphael-rails"
+  s.homepage    = "https://github.com/mockdeep/raphael-rails"
   s.summary     = %q{Raphael JS as a Rubygem}
   s.description = %q{Raphael JS as a Rubygem for use in the Rails asset pipeline}
 
